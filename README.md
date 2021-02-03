@@ -1,5 +1,5 @@
-# CrudeMV
-Nome do projeto: CrudeMV
+# CrudMV
+Nome do projeto: CrudMV
 Alunos: Matheus Marques de Castro e Victor Maciel Clímaco
 O projeto será web.
 Seram utilizados: JavaScript, HTML e CSS, APIRest.
