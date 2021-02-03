@@ -1,4 +1,4 @@
-# Paradigmas
+# CrudeMV
 Nome do projeto: CrudeMV
 Alunos: Matheus Marques de Castro e Victor Maciel Clímaco
 O projeto será web.
